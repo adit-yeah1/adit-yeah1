@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit-yeah1&label=Profile%20views&color=0e75b6&style=flat" alt="adit-yeah1" /> </p>
 
-- 🔭 I’m currently working on **personal project**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Django**
+- // 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [will_be_updated_soon](will_be_updated_soon)
 
