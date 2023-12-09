@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Java**
 
-- // 🌱 I’m currently learning ****
-
 - 👨‍💻 All of my projects are available at [will_be_updated_soon](will_be_updated_soon)
 
 - 📝 I regularly write articles on [will_be_updated_soon](will_be_updated_soon)
